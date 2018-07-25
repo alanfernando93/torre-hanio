@@ -6,10 +6,10 @@ algoritmo de la torre de hanio
 
 ## resultado 
 
-Mover Disco de Torre 1 a Torre 3
-Mover Disco de Torre 1 a Torre 2
-Mover Disco de Torre 3 a Torre 2
-Mover Disco de Torre 1 a Torre 3
-Mover Disco de Torre 2 a Torre 1
-Mover Disco de Torre 2 a Torre 3
-Mover Disco de Torre 1 a Torre 3
+- Mover Disco de Torre 1 a Torre 3
+- Mover Disco de Torre 1 a Torre 2
+- Mover Disco de Torre 3 a Torre 2
+- Mover Disco de Torre 1 a Torre 3
+- Mover Disco de Torre 2 a Torre 1
+- Mover Disco de Torre 2 a Torre 3
+- Mover Disco de Torre 1 a Torre 3
